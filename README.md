@@ -11,3 +11,9 @@ This competition competition was organised after our bootcamp class. The objecti
 - Finally build a model using deep neural network with tensorflow. 
 
 - The jupyter notebook gives more detail to the work done. 
+
+
+
+
+
+
